@@ -1,1 +1,9 @@
-# karan-ssj3.github.io
+# Data Scientist
+
+### Education
+
+### Work Experience
+- Big impact projects
+
+
+### Projects
